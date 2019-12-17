@@ -1,0 +1,25 @@
+@model FeedbackMVC.ViewModels.BaseViewModel
+<main class="login">
+    <p>@Model.MensagemDeErro</p>
+    <img src="/img/profiledefault.jpg" class="usuario" width="100" height="100" alt="">
+
+    <form method="POST" action='@Url.Action("Cadastrar", "Cliente")'>
+
+        <div>
+            <label for="arroba">Digite seu usuario</label>
+            <input id="arroba" type="text" name="UsuarioArroba" required>
+        </div>
+
+        <div>
+            <label for="arroba">Digite seu nome</label>
+            <input id="arroba" type="text" name="UsuarioNome" required>
+        </div>
+
+        <div>
+            <label for="senha">Digite sua senha</label>
+            <input id="senha" type="password" name="Senha" required>
+        </div>
+
+        <input id="entrar" type="submit" value="Entrar">
+    </form>
+</main>

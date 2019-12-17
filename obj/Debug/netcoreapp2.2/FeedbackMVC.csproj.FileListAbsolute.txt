@@ -1,0 +1,130 @@
+C:/Users/54094513841/Desktop/FeedbackMVC/bin/Debug/netcoreapp2.2/FeedbackMVC.deps.json
+C:/Users/54094513841/Desktop/FeedbackMVC/bin/Debug/netcoreapp2.2/FeedbackMVC.runtimeconfig.json
+C:/Users/54094513841/Desktop/FeedbackMVC/bin/Debug/netcoreapp2.2/FeedbackMVC.runtimeconfig.dev.json
+C:/Users/54094513841/Desktop/FeedbackMVC/bin/Debug/netcoreapp2.2/FeedbackMVC.dll
+C:/Users/54094513841/Desktop/FeedbackMVC/bin/Debug/netcoreapp2.2/FeedbackMVC.pdb
+C:/Users/54094513841/Desktop/FeedbackMVC/bin/Debug/netcoreapp2.2/FeedbackMVC.Views.dll
+C:/Users/54094513841/Desktop/FeedbackMVC/bin/Debug/netcoreapp2.2/FeedbackMVC.Views.pdb
+C:/Users/54094513841/Desktop/FeedbackMVC/obj/Debug/netcoreapp2.2/FeedbackMVC.csprojAssemblyReference.cache
+C:/Users/54094513841/Desktop/FeedbackMVC/obj/Debug/netcoreapp2.2/FeedbackMVC.csproj.CoreCompileInputs.cache
+C:/Users/54094513841/Desktop/FeedbackMVC/obj/Debug/netcoreapp2.2/FeedbackMVC.RazorAssemblyInfo.cache
+C:/Users/54094513841/Desktop/FeedbackMVC/obj/Debug/netcoreapp2.2/FeedbackMVC.RazorAssemblyInfo.cs
+C:/Users/54094513841/Desktop/FeedbackMVC/obj/Debug/netcoreapp2.2/FeedbackMVC.AssemblyInfoInputs.cache
+C:/Users/54094513841/Desktop/FeedbackMVC/obj/Debug/netcoreapp2.2/FeedbackMVC.AssemblyInfo.cs
+C:/Users/54094513841/Desktop/FeedbackMVC/obj/Debug/netcoreapp2.2/FeedbackMVC.TagHelpers.input.cache
+C:/Users/54094513841/Desktop/FeedbackMVC/obj/Debug/netcoreapp2.2/FeedbackMVC.TagHelpers.output.cache
+C:/Users/54094513841/Desktop/FeedbackMVC/obj/Debug/netcoreapp2.2/FeedbackMVC.RazorCoreGenerate.cache
+C:/Users/54094513841/Desktop/FeedbackMVC/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+C:/Users/54094513841/Desktop/FeedbackMVC/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.g.cshtml.cs
+C:/Users/54094513841/Desktop/FeedbackMVC/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
+C:/Users/54094513841/Desktop/FeedbackMVC/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+C:/Users/54094513841/Desktop/FeedbackMVC/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+C:/Users/54094513841/Desktop/FeedbackMVC/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+C:/Users/54094513841/Desktop/FeedbackMVC/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+C:/Users/54094513841/Desktop/FeedbackMVC/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+C:/Users/54094513841/Desktop/FeedbackMVC/obj/Debug/netcoreapp2.2/FeedbackMVC.RazorTargetAssemblyInfo.cache
+C:/Users/54094513841/Desktop/FeedbackMVC/obj/Debug/netcoreapp2.2/FeedbackMVC.RazorTargetAssemblyInfo.cs
+C:/Users/54094513841/Desktop/FeedbackMVC/obj/Debug/netcoreapp2.2/FeedbackMVC.Views.pdb
+C:/Users/54094513841/Desktop/FeedbackMVC/obj/Debug/netcoreapp2.2/FeedbackMVC.dll
+C:/Users/54094513841/Desktop/FeedbackMVC/obj/Debug/netcoreapp2.2/FeedbackMVC.pdb
+C:/Users/54094513841/Desktop/FeedbackMVC/obj/Debug/netcoreapp2.2/FeedbackMVC.csproj.CopyComplete
+C:/Users/54094513841/Desktop/FeedbackMVC/obj/Debug/netcoreapp2.2/Razor/Views/Cliente/login.g.cshtml.cs
+/home/satva/Documentos/TecTecTec/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/home/satva/Documentos/TecTecTec/bin/Debug/netcoreapp2.2/appsettings.json
+/home/satva/Documentos/TecTecTec/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+/home/satva/Documentos/TecTecTec/bin/Debug/netcoreapp2.2/FeedbackMVC.deps.json
+/home/satva/Documentos/TecTecTec/bin/Debug/netcoreapp2.2/FeedbackMVC.runtimeconfig.json
+/home/satva/Documentos/TecTecTec/bin/Debug/netcoreapp2.2/FeedbackMVC.runtimeconfig.dev.json
+/home/satva/Documentos/TecTecTec/bin/Debug/netcoreapp2.2/FeedbackMVC.dll
+/home/satva/Documentos/TecTecTec/bin/Debug/netcoreapp2.2/FeedbackMVC.pdb
+/home/satva/Documentos/TecTecTec/bin/Debug/netcoreapp2.2/FeedbackMVC.Views.dll
+/home/satva/Documentos/TecTecTec/bin/Debug/netcoreapp2.2/FeedbackMVC.Views.pdb
+/home/satva/Documentos/TecTecTec/obj/Debug/netcoreapp2.2/FeedbackMVC.csprojAssemblyReference.cache
+/home/satva/Documentos/TecTecTec/obj/Debug/netcoreapp2.2/FeedbackMVC.RazorAssemblyInfo.cache
+/home/satva/Documentos/TecTecTec/obj/Debug/netcoreapp2.2/FeedbackMVC.RazorAssemblyInfo.cs
+/home/satva/Documentos/TecTecTec/obj/Debug/netcoreapp2.2/FeedbackMVC.AssemblyInfoInputs.cache
+/home/satva/Documentos/TecTecTec/obj/Debug/netcoreapp2.2/FeedbackMVC.AssemblyInfo.cs
+/home/satva/Documentos/TecTecTec/obj/Debug/netcoreapp2.2/FeedbackMVC.TagHelpers.input.cache
+/home/satva/Documentos/TecTecTec/obj/Debug/netcoreapp2.2/FeedbackMVC.TagHelpers.output.cache
+/home/satva/Documentos/TecTecTec/obj/Debug/netcoreapp2.2/FeedbackMVC.RazorCoreGenerate.cache
+/home/satva/Documentos/TecTecTec/obj/Debug/netcoreapp2.2/Razor/Views/Cliente/login.cshtml.g.cs
+/home/satva/Documentos/TecTecTec/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.cshtml.g.cs
+/home/satva/Documentos/TecTecTec/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.cshtml.g.cs
+/home/satva/Documentos/TecTecTec/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.cshtml.g.cs
+/home/satva/Documentos/TecTecTec/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/satva/Documentos/TecTecTec/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/satva/Documentos/TecTecTec/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.cshtml.g.cs
+/home/satva/Documentos/TecTecTec/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.cshtml.g.cs
+/home/satva/Documentos/TecTecTec/obj/Debug/netcoreapp2.2/FeedbackMVC.RazorTargetAssemblyInfo.cache
+/home/satva/Documentos/TecTecTec/obj/Debug/netcoreapp2.2/FeedbackMVC.RazorTargetAssemblyInfo.cs
+/home/satva/Documentos/TecTecTec/obj/Debug/netcoreapp2.2/FeedbackMVC.Views.pdb
+/home/satva/Documentos/TecTecTec/obj/Debug/netcoreapp2.2/FeedbackMVC.dll
+/home/satva/Documentos/TecTecTec/obj/Debug/netcoreapp2.2/FeedbackMVC.pdb
+/home/satva/Documentos/TecTecTec/obj/Debug/netcoreapp2.2/FeedbackMVC.csproj.CopyComplete
+/home/satva/Documentos/TecTecTec/obj/Debug/netcoreapp2.2/Razor/Views/Cliente/cadastro.cshtml.g.cs
+/home/satva/Documentos/TecTecTec/obj/Debug/netcoreapp2.2/Razor/Views/Cliente/index.cshtml.g.cs
+\\192.168.1.37\Repositorio\Tecnico Desenvolvimento\Area dos Alunos\paste\TecTecTec\bin\Debug\netcoreapp2.2\FeedbackMVC.deps.json
+\\192.168.1.37\Repositorio\Tecnico Desenvolvimento\Area dos Alunos\paste\TecTecTec\bin\Debug\netcoreapp2.2\FeedbackMVC.runtimeconfig.json
+\\192.168.1.37\Repositorio\Tecnico Desenvolvimento\Area dos Alunos\paste\TecTecTec\bin\Debug\netcoreapp2.2\FeedbackMVC.runtimeconfig.dev.json
+\\192.168.1.37\Repositorio\Tecnico Desenvolvimento\Area dos Alunos\paste\TecTecTec\bin\Debug\netcoreapp2.2\FeedbackMVC.dll
+\\192.168.1.37\Repositorio\Tecnico Desenvolvimento\Area dos Alunos\paste\TecTecTec\bin\Debug\netcoreapp2.2\FeedbackMVC.pdb
+\\192.168.1.37\Repositorio\Tecnico Desenvolvimento\Area dos Alunos\paste\TecTecTec\bin\Debug\netcoreapp2.2\FeedbackMVC.Views.dll
+\\192.168.1.37\Repositorio\Tecnico Desenvolvimento\Area dos Alunos\paste\TecTecTec\bin\Debug\netcoreapp2.2\FeedbackMVC.Views.pdb
+\\192.168.1.37\Repositorio\Tecnico Desenvolvimento\Area dos Alunos\paste\TecTecTec\obj\Debug\netcoreapp2.2\FeedbackMVC.csprojAssemblyReference.cache
+\\192.168.1.37\Repositorio\Tecnico Desenvolvimento\Area dos Alunos\paste\TecTecTec\obj\Debug\netcoreapp2.2\FeedbackMVC.csproj.CoreCompileInputs.cache
+\\192.168.1.37\Repositorio\Tecnico Desenvolvimento\Area dos Alunos\paste\TecTecTec\obj\Debug\netcoreapp2.2\FeedbackMVC.RazorAssemblyInfo.cache
+\\192.168.1.37\Repositorio\Tecnico Desenvolvimento\Area dos Alunos\paste\TecTecTec\obj\Debug\netcoreapp2.2\FeedbackMVC.RazorAssemblyInfo.cs
+\\192.168.1.37\Repositorio\Tecnico Desenvolvimento\Area dos Alunos\paste\TecTecTec\obj\Debug\netcoreapp2.2\FeedbackMVC.AssemblyInfoInputs.cache
+\\192.168.1.37\Repositorio\Tecnico Desenvolvimento\Area dos Alunos\paste\TecTecTec\obj\Debug\netcoreapp2.2\FeedbackMVC.AssemblyInfo.cs
+\\192.168.1.37\Repositorio\Tecnico Desenvolvimento\Area dos Alunos\paste\TecTecTec\obj\Debug\netcoreapp2.2\FeedbackMVC.TagHelpers.input.cache
+\\192.168.1.37\Repositorio\Tecnico Desenvolvimento\Area dos Alunos\paste\TecTecTec\obj\Debug\netcoreapp2.2\FeedbackMVC.TagHelpers.output.cache
+\\192.168.1.37\Repositorio\Tecnico Desenvolvimento\Area dos Alunos\paste\TecTecTec\obj\Debug\netcoreapp2.2\FeedbackMVC.RazorCoreGenerate.cache
+\\192.168.1.37\Repositorio\Tecnico Desenvolvimento\Area dos Alunos\paste\TecTecTec\obj\Debug\netcoreapp2.2\Razor\Views\Cliente\cadastro.g.cshtml.cs
+\\192.168.1.37\Repositorio\Tecnico Desenvolvimento\Area dos Alunos\paste\TecTecTec\obj\Debug\netcoreapp2.2\Razor\Views\Cliente\index.g.cshtml.cs
+\\192.168.1.37\Repositorio\Tecnico Desenvolvimento\Area dos Alunos\paste\TecTecTec\obj\Debug\netcoreapp2.2\Razor\Views\Cliente\login.g.cshtml.cs
+\\192.168.1.37\Repositorio\Tecnico Desenvolvimento\Area dos Alunos\paste\TecTecTec\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+\\192.168.1.37\Repositorio\Tecnico Desenvolvimento\Area dos Alunos\paste\TecTecTec\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+\\192.168.1.37\Repositorio\Tecnico Desenvolvimento\Area dos Alunos\paste\TecTecTec\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+\\192.168.1.37\Repositorio\Tecnico Desenvolvimento\Area dos Alunos\paste\TecTecTec\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+\\192.168.1.37\Repositorio\Tecnico Desenvolvimento\Area dos Alunos\paste\TecTecTec\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+\\192.168.1.37\Repositorio\Tecnico Desenvolvimento\Area dos Alunos\paste\TecTecTec\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+\\192.168.1.37\Repositorio\Tecnico Desenvolvimento\Area dos Alunos\paste\TecTecTec\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+\\192.168.1.37\Repositorio\Tecnico Desenvolvimento\Area dos Alunos\paste\TecTecTec\obj\Debug\netcoreapp2.2\FeedbackMVC.RazorTargetAssemblyInfo.cache
+\\192.168.1.37\Repositorio\Tecnico Desenvolvimento\Area dos Alunos\paste\TecTecTec\obj\Debug\netcoreapp2.2\FeedbackMVC.RazorTargetAssemblyInfo.cs
+\\192.168.1.37\Repositorio\Tecnico Desenvolvimento\Area dos Alunos\paste\TecTecTec\obj\Debug\netcoreapp2.2\FeedbackMVC.Views.pdb
+\\192.168.1.37\Repositorio\Tecnico Desenvolvimento\Area dos Alunos\paste\TecTecTec\obj\Debug\netcoreapp2.2\FeedbackMVC.dll
+\\192.168.1.37\Repositorio\Tecnico Desenvolvimento\Area dos Alunos\paste\TecTecTec\obj\Debug\netcoreapp2.2\FeedbackMVC.pdb
+\\192.168.1.37\Repositorio\Tecnico Desenvolvimento\Area dos Alunos\paste\TecTecTec\obj\Debug\netcoreapp2.2\FeedbackMVC.csproj.CopyComplete
+C:\Users\52850852848\Desktop\TecTecTec\bin\Debug\netcoreapp2.2\FeedbackMVC.deps.json
+C:\Users\52850852848\Desktop\TecTecTec\bin\Debug\netcoreapp2.2\FeedbackMVC.runtimeconfig.json
+C:\Users\52850852848\Desktop\TecTecTec\bin\Debug\netcoreapp2.2\FeedbackMVC.runtimeconfig.dev.json
+C:\Users\52850852848\Desktop\TecTecTec\bin\Debug\netcoreapp2.2\FeedbackMVC.dll
+C:\Users\52850852848\Desktop\TecTecTec\bin\Debug\netcoreapp2.2\FeedbackMVC.pdb
+C:\Users\52850852848\Desktop\TecTecTec\bin\Debug\netcoreapp2.2\FeedbackMVC.Views.dll
+C:\Users\52850852848\Desktop\TecTecTec\bin\Debug\netcoreapp2.2\FeedbackMVC.Views.pdb
+C:\Users\52850852848\Desktop\TecTecTec\obj\Debug\netcoreapp2.2\FeedbackMVC.csprojAssemblyReference.cache
+C:\Users\52850852848\Desktop\TecTecTec\obj\Debug\netcoreapp2.2\FeedbackMVC.csproj.CoreCompileInputs.cache
+C:\Users\52850852848\Desktop\TecTecTec\obj\Debug\netcoreapp2.2\FeedbackMVC.RazorAssemblyInfo.cache
+C:\Users\52850852848\Desktop\TecTecTec\obj\Debug\netcoreapp2.2\FeedbackMVC.RazorAssemblyInfo.cs
+C:\Users\52850852848\Desktop\TecTecTec\obj\Debug\netcoreapp2.2\FeedbackMVC.AssemblyInfoInputs.cache
+C:\Users\52850852848\Desktop\TecTecTec\obj\Debug\netcoreapp2.2\FeedbackMVC.AssemblyInfo.cs
+C:\Users\52850852848\Desktop\TecTecTec\obj\Debug\netcoreapp2.2\FeedbackMVC.TagHelpers.input.cache
+C:\Users\52850852848\Desktop\TecTecTec\obj\Debug\netcoreapp2.2\FeedbackMVC.TagHelpers.output.cache
+C:\Users\52850852848\Desktop\TecTecTec\obj\Debug\netcoreapp2.2\FeedbackMVC.RazorCoreGenerate.cache
+C:\Users\52850852848\Desktop\TecTecTec\obj\Debug\netcoreapp2.2\Razor\Views\Agradecimento\Index.g.cshtml.cs
+C:\Users\52850852848\Desktop\TecTecTec\obj\Debug\netcoreapp2.2\Razor\Views\Cliente\cadastro.g.cshtml.cs
+C:\Users\52850852848\Desktop\TecTecTec\obj\Debug\netcoreapp2.2\Razor\Views\Cliente\index.g.cshtml.cs
+C:\Users\52850852848\Desktop\TecTecTec\obj\Debug\netcoreapp2.2\Razor\Views\Cliente\login.g.cshtml.cs
+C:\Users\52850852848\Desktop\TecTecTec\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\52850852848\Desktop\TecTecTec\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\52850852848\Desktop\TecTecTec\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\52850852848\Desktop\TecTecTec\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\52850852848\Desktop\TecTecTec\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\52850852848\Desktop\TecTecTec\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\52850852848\Desktop\TecTecTec\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\52850852848\Desktop\TecTecTec\obj\Debug\netcoreapp2.2\FeedbackMVC.RazorTargetAssemblyInfo.cache
+C:\Users\52850852848\Desktop\TecTecTec\obj\Debug\netcoreapp2.2\FeedbackMVC.RazorTargetAssemblyInfo.cs
+C:\Users\52850852848\Desktop\TecTecTec\obj\Debug\netcoreapp2.2\FeedbackMVC.Views.pdb
+C:\Users\52850852848\Desktop\TecTecTec\obj\Debug\netcoreapp2.2\FeedbackMVC.dll
+C:\Users\52850852848\Desktop\TecTecTec\obj\Debug\netcoreapp2.2\FeedbackMVC.pdb
+C:\Users\52850852848\Desktop\TecTecTec\obj\Debug\netcoreapp2.2\FeedbackMVC.csproj.CopyComplete

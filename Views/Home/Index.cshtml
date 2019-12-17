@@ -1,0 +1,114 @@
+﻿@model FeedbackMVC.ViewModels.ClienteViewModel
+@{
+
+ViewData["Usuario"] = @Model.UsuarioLogado;
+var link = "ArquivosDosClientes/"+ViewData["Usuario"]+"/perfil.png";
+}
+        <main>
+            @if(Model.UsuarioLogado != "")
+            {
+                <div class="CriarPost">
+                    <div class="PostHeader">
+                        <h1></h1>
+                            <img class="PostImagemPerfil" src=@link>
+                    </div>
+                    <script src="https://rawgit.com/jackmoore/autosize/master/dist/autosize.min.js"></script>
+                    <form class="FormCriarPost" method="POST" action='@Url.Action("Postar", "Home")'>
+                        
+                        <!-- codigo js para limitar caractere
+                        
+                        $(document).on("keydown", "#TxtObservacoes", function () {
+                    var caracteresRestantes = 255;
+                    var caracteresDigitados = parseInt($(this).val().length);
+                    var caracteresRestantes = caracteresRestantes - caracteresDigitados;
+            
+                    $(".caracteres").text(caracteresRestantes);
+                        }); -->
+
+                        <textarea class="CriarPostMensagem" minlength="1" maxlength="360" name="MensagemDoPost" placeholder="Poste uma mensagem..."></textarea>
+                        <div class="BotaoCriarPostDiv">
+                            <input class="BotaoCriarPost" type="submit" value="Postar">
+                        </div>
+                    </form>
+
+                </div>
+            <hr>
+            }
+            @foreach(Post post in Model.PostsDeTodos){
+                var postperfilimagem = "ArquivosDosClientes/"+post.DonoDoPostArroba+"/perfil.png";
+                <div class="Post">
+                    <div class="PostHeader">
+                            <img class="PostImagemPerfil" src=@postperfilimagem>
+                        <div class="PostUserInformacao">
+                            <p class="PostDonoNome">@post.DonoDoPost</p>
+                            <p class="PostDonoUsuario">@post.DonoDoPostArroba</p>
+                        </div>
+                        @if(@Model.UsuarioLogado == post.DonoDoPostArroba)
+                        {
+                            <form method="Post" asp-controller="Home" asp-action="ExcluirPost">
+                                <input type="hidden" value=@post.ID name="ID">
+                                <button style="border:none;">
+                                    <i class="fas ExcluirPost fa-14x fa-trash" style="color: white;"></i>
+                                </button>
+
+                            </form>
+                        }
+                    </div>
+                    <div class="PostBody">
+                        <p class="PostMensagem">@post.MensagemDoPost</p>
+                    </div>
+                    <div class="PostFooter">
+                        @if(Model.UsuarioLogado != "")
+                        {
+
+                            <i class="far fa-14x  fa-comment"></i>
+                            <i class="fas fa-14x  fa-retweet"></i>
+                            
+                            
+                            bool achou = false;
+                            
+
+                            @foreach (var item in @Model.OQueEuCurti)
+                            {
+                                @if(item == @post.ID)
+                                {
+                                    <form method="Post" asp-controller="Home" asp-action="DescurtirPost">
+                                        <input type="hidden" value=@post.ID name="ID">
+                                        <button style="border:none; background: none;">
+                                            <i class="fas fa-14x fa-heart" style="color: yellow;"></i>
+                                        </button>
+                                    </form>
+                                    achou = true;
+                                    break;
+                                }
+                            }
+
+                            @if(@achou == false)
+                            {
+                                <form method="Post" asp-controller="Home" asp-action="CurtirPost">
+                                    <input type="hidden" value=@post.ID name="ID">
+                                    <button style="border:none; background: none;">
+                                        <i class="far fa-14x fa-heart"></i>
+                                    </button>
+                                </form>
+                            }
+
+                        }else{
+
+                            <i class="far fa-14x fa-comment"></i>
+                            <i class="fas fa-14x fa-retweet"></i>
+                            <i class="far fa-14x fa-heart"></i>
+                        }
+                    </div>
+
+                </div>
+
+            }
+
+        </main>
+        <!-- <a href="#" class="BotaoFlutuanteEscreverMensagem">
+            <i class="fa fa-2x fa-edit BotaoFlutuanteIcone"></i>
+        </a> -->
+
+        <script src="js/main.js">
+        </script>

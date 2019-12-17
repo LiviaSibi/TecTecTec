@@ -1,0 +1,489 @@
+/**################### GERALZÃO ###################**/
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html,body,main{
+    height: 100%;
+}
+
+body{
+    background-color:#260527;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+p{
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+
+}
+
+header{
+    height: 3.5em;
+    width: 100%;
+    background-color: #161615;
+}
+
+textarea{
+    font-family: 'Montserrat', sans-serif;
+}
+
+main{
+    display: flex;
+}
+/**################### /GERALZÃO ###################**/
+
+/**################### AGRADECIMENTO ###################**/
+h2{
+    color: rgb(204, 46, 120);
+    text-shadow: 0 0 2px #000; 
+    padding: 0 0 1em 0;
+}
+​
+.agradecimento {
+    padding: 2em;
+    background-color: #431969;
+    height: fit-content;
+    width: 40em;
+    border-style: solid;
+    border-width: 0.5px;
+    margin-top: 8em;
+    margin-left: 8em;
+    position: relative;
+    font-size: 1.1em;
+}
+​
+.agradecimento i{
+    color: rgb(192, 11, 11);
+}
+/**################### /AGRADECIMENTO ###################**/
+
+/**################### NAV ###################**/
+.logo-area > img {
+    margin: 2em 0 0 -9.5em;
+    width: 18em;
+}
+
+.Navigator{
+    width: 0;;
+}
+
+li{
+    width: 12em;
+    height: 2em;
+    font-family: 'Montserrat', sans-serif;
+}
+
+nav {
+    background-color: #260527;
+    position: fixed;
+    background-size: 100%;
+    width: 0%;
+    margin-top: 1.5em;
+    margin-left: 24%;
+}
+
+
+nav ul {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 1.3em;
+    list-style-type: none;
+}
+
+
+
+nav ul > li > a {
+    padding: 0.5em;
+    display: block;
+    text-decoration: none;
+    color: #fff;
+}
+
+
+
+nav ul > li > a:hover {
+    background-color: #431969;
+    color: #fff;
+    background-size: cover;
+    border-radius: 32px;
+}
+
+nav #bt-mobile-menu {
+    display: none;
+}
+
+/**################### /NAV ###################**/
+
+/**################### HOME ###################**/
+
+hr{
+    border: 1px solid #bda9d1;
+    width: 36%;
+}
+
+.CriarPost
+{
+    margin-top: 2em;
+    display: flex;
+    margin-bottom: 1em;
+    padding: 2em;
+    background-color: #431969;
+    width: 40em;
+}
+
+.FormCriarPost
+{
+    width: 100%;
+}
+
+.CriarPostMensagem
+{
+    border: none;
+    background-color: transparent;
+    font-family: 'Bitter', serif;
+	width:100%;
+	box-sizing:border-box;
+	max-width:100%;
+    border-radius:3px;
+    color: #ebf0f6;
+    max-inline-size: 24em;
+    outline: none;
+    resize: none;
+    margin-left: 2em;
+    font-size: 1.2em;
+}
+
+.CriarPostMensagem::placeholder
+{
+    color: #ebf0f6;
+}
+
+.Post
+{
+    padding: 2em;
+    background-color: #431969;
+    height: fit-content;
+    width: 40em;
+    border-style: solid;
+    border-width: 0.5px;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    position: relative;
+}
+.ExcluirPost{
+    position: absolute;
+    top: 1.5em;
+    right: 3em;
+}
+.ExcluirPost:hover{
+    cursor: pointer;
+}
+.PostHeader *{
+    
+    display: inline;
+}
+
+.PostHeader{
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+    margin-bottom: 1em;
+}
+.PostUserInformacao{
+    display: flex;
+    flex-direction: column;
+}
+.PostDonoNome{
+    margin-left: 1em;
+    color: #ebf0f6;
+    clear: both;
+}
+.PostDonoUsuario
+{
+    margin-left: 1em;
+    color: #bda9d1;
+    clear: both;
+}
+.PostImagemPerfil
+{
+    border-radius: 35px;
+    width: 4em;
+    height: 4em;
+}
+
+.PostMensagem
+{
+    display: block; 
+    text-overflow: ellipsis;
+    word-wrap: break-word;
+    overflow: hidden;
+    line-height: 1.8em;
+    width: fit-content;
+    color: #ebf0f6;
+}
+
+.PostBody{
+
+    margin-left: 5em;
+}
+
+.PostFooter{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 1.5em;
+}
+.PostFooter *{
+    color: white;
+}
+
+.BotaoCriarPostDiv
+{
+    justify-content: flex-end;
+    display: flex;
+}
+.BotaoCriarPost
+{
+    border: 1px;
+    padding: 1em;
+    border-radius: 32px;
+    background-color: #bda9d1;
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+}
+/**################### /HOME ###################**/
+
+
+/**################### LOGIN E CADASTRO ###################**/
+
+.login 
+{
+    width: 320px;
+    height: 420px;
+    border: 2px solid #000;
+    border-radius: 80px 0px 80px 0px;
+    color: #fff;
+    background-color: #431969;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+    padding: 68px 28px;
+}
+
+.usuario 
+{
+    border-radius: 50%;
+    position: absolute;
+    top: -50px;
+    left: 112px;
+}
+
+/**################### FORM ###################**/
+
+form * {
+    margin: 10px 0;
+} 
+
+form label {
+    color: #fff;
+    font-size: 20px;
+}
+
+
+form input#arroba {
+    width: 90%;
+    height: 30px;
+    border: none;
+    text-align: left;
+    padding: 0 3px;
+    border-radius: 28px;
+}  
+
+form input#senha {
+    width: 90%;
+    height: 30px;
+    border: none;
+    text-align: left;
+    padding: 0 3px;
+    border-radius: 25px;
+}  
+
+form input#entrar {
+    background-color: #F2D10D;
+    border: 2px solid #000;
+    color: #000;
+    margin: 20px 0;
+    height: 2em;
+    width: 5.5em;
+    border-radius: 17px;
+    font-size: 1.2em;
+    font-weight: bold;
+    text-align: center;
+    align-items: center;
+} 
+
+form input#entrar:hover {
+    background-color: #772DBB;
+    color: #F2D10D;
+    border: 1px solid #772DBB;
+    box-shadow: 3px 3px rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+    font-weight: bolder;
+}
+
+/**################### /FORM ###################**/
+
+/**################### USUÁRIO ###################**/
+#perfil-usuario{
+    padding: 2em;
+    background-color: #431969;
+    height: fit-content;
+    width: 40em;
+    border-style: solid;
+    border-width: 0.5px;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    position: relative;
+}
+/**################### /USUÁRIO ###################**/
+
+
+/**################### /LOGIN E CADASTRO ###################**/
+
+@media(max-width: 1700px){
+    .logo-area > img {
+        margin: 2em 0 0 -10em;
+        width: 18em;
+    }
+
+    nav {
+        margin-left: 15%;
+    }
+}
+
+@media(max-width: 1400px){
+    .logo-area > img {
+        margin: 2em 0 0 -9em;
+        width: 12em;
+    }
+
+    nav {
+        margin-left: 12%;
+    }
+
+    .Post{
+        margin-left: 10em;
+    }
+
+    .CriarPost{
+        margin-left: 10em;
+    }
+
+    hr{
+        width: 54%;
+        margin-left: 9em;
+    }
+}
+
+@media(max-width: 1200px){
+    .logo-area > img {
+        margin: 2em 0 0 -8em;
+        width: 12em;
+    }
+
+    nav {
+        margin-left: 14.5%;
+    }
+
+    .Post{
+        width: 30em;
+    }
+
+    .CriarPost{
+        width: 30em;
+    }
+
+    hr{
+        width: 47%;
+        margin-left: 9.5em;
+    }
+
+    .agradecimento {
+        margin-left: 14em;
+    }
+}
+
+@media(max-width: 950px){
+    .agradecimento {
+        width: 30em;
+        margin-left: 14em;
+    }
+}
+
+@media(max-width: 850px){
+    .logo-area > img {
+        visibility: hidden;
+    }
+
+    nav{
+        margin-left: 18%;
+        margin-top: -10em;
+    }
+
+    .agradecimento {
+        width: 30em;
+        margin-left: 1em;
+        font-size: 1.1em;
+    }
+    /********************************************
+                    nav - mobile
+    ********************************************/
+    nav #bt-mobile-menu {
+        display: block;
+    }
+
+    nav .bt-common-menu {
+        display: none;
+    }
+
+    nav .bt-common-menu.active {
+        display: block;
+    }
+
+    nav ul.mobile-mode {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+@media(max-width: 740px){
+    .Post{
+        margin-left: 6em;
+    }
+
+    .CriarPost{
+        margin-left: 6em;
+    }
+
+    hr{
+        width: 47%;
+        margin-left: 9em;
+    }
+
+    .agradecimento {
+        width: 25em;
+        margin-left: -2em;
+        font-size: 1.1em;
+    }
+}
